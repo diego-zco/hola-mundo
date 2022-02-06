@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo en rama
 Mi primer repositorio de prueba.
 
 Autor: Diego Hernandez <br />
